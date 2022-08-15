@@ -43,6 +43,5 @@ public class WeatherServiceImpl implements WeatherService {
 
     static class WeatherResponse {
         Weather[] data;
-
     }
 }
